@@ -12,6 +12,14 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/isawesom3/lemon-leak** and import
 
+## How to play
+
+Use the joystick to move aroud.
+Avoid the sharks.
+If you touch a shark, you'll lose juice.
+try not to lose too much juice before the timer runs out!
+![Screenshot 2024-06-22 5 17 06 PM](https://github.com/isawesom3/lemon-leak/assets/173570795/22b97030-a27d-4bcd-8d6f-ea0b22df1f7c)
+
 ## Edit this project ![Build status badge](https://github.com/isawesom3/lemon-leak/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
