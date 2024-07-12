@@ -22,9 +22,9 @@ To edit this repository in MakeCode.
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+a picture of the blocks
 
-![A rendered view of the blocks](https://github.com/isawesom3/lemon-leak/raw/master/.github/makecode/blocks.png)
+![Screenshot 2024-07-12 5 38 27 PM](https://github.com/user-attachments/assets/499d049e-48e2-4cd2-b603-fdbcd9b6c19e)
+
 
 
