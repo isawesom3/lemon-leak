@@ -12,7 +12,7 @@ If you touch a shark, you'll lose juice.
 try not to lose too much juice before the timer runs out!
 ![Screenshot 2024-06-22 5 17 06 PM](https://github.com/isawesom3/lemon-leak/assets/173570795/22b97030-a27d-4bcd-8d6f-ea0b22df1f7c)
 
-## Edit this project
+## See the projects code and edit
 
 To edit this repository in MakeCode.
 
