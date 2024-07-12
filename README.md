@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://isawesom3.github.io/lemon-leak/](https://isawesom3.github.io/lemon-leak/)
+> Open this page at https://makecode.com/_hYUfp411zMWW
 
 
 ## How to play
